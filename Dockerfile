@@ -4,4 +4,4 @@ RUN pip3 install mlflow
 
 EXPOSE 5000
 
-ENTRYPOINT ["/scripts/init.sh"]
+ENTRYPOINT ["/scripts/sys/init.sh"]
