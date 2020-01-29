@@ -10,6 +10,10 @@ Remote Desktop: None
 Jupyter Kernels:  
 - Python 3.5.2 
 
+## Prerequisite
+You need to [install Docker](http://www.legendu.net/en/blog/docker-installation/) before you use this Docker image.
+
+
 ## Usage in Linux/Unix
 
 ### Prerequisites
